@@ -1,0 +1,1 @@
+P:\GitProjects\WindowsIoTProjects\Tests\SerialReadTest\SerialReadTest.csproj;x64
